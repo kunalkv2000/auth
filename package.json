@@ -16,9 +16,9 @@
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/kunalkv2000/auth"
+    "url": "https://github.com/kunalkv2000/auth/issues"
   },
-  "homepage": "https://github.com/kunalkv2000/auth",
+  "homepage": "https://github.com/kunalkv2000/auth#readme",
   "dependencies": {
     "bcryptjs": "^3.0.2",
     "cors": "^2.8.5",
